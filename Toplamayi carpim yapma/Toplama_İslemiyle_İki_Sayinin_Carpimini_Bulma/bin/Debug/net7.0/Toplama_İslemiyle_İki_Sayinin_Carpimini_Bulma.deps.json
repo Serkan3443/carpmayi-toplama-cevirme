@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Toplama_İslemiyle_İki_Sayinin_Carpimini_Bulma/1.0.0": {
+        "runtime": {
+          "Toplama_İslemiyle_İki_Sayinin_Carpimini_Bulma.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Toplama_İslemiyle_İki_Sayinin_Carpimini_Bulma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
